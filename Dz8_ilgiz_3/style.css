@@ -1,0 +1,14 @@
+
+.todo-item {
+    display: flex;
+    align-items: center;
+}
+.todo-item > button {
+    width: 50px;
+    height: 40px;
+}
+
+
+.done { 
+    text-decoration: line-through;
+}
